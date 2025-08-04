@@ -1,0 +1,20 @@
+[
+  {
+    "Nome": "Caderno",
+    "Preco": 12.5,
+    "Quantidade": 10,
+    "ValorTotal": 125.0
+  },
+  {
+    "Nome": "Caneta",
+    "Preco": 2.3,
+    "Quantidade": 50,
+    "ValorTotal": 115.0
+  },
+  {
+    "Nome": "Mochila",
+    "Preco": 89.9,
+    "Quantidade": 5,
+    "ValorTotal": 449.5
+  }
+]
